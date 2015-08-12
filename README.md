@@ -7,4 +7,4 @@ So far, you've gotten really good at HTML, but now it's time to add some pizzaz 
 
 ##Some Things You Should Know
 
-Start today with the Lesson `What Not To Wear: CSS Edition`. If you finish the lesson and have some time to spare, take a stab at the lab, `My Little Rainbow`. If you need some help getting the lab into Nitrous, don't worry! Take a look at the `How To: Work On A Lab`.
+Start today with the Lesson `What Not To Wear: CSS Edition`. If you finish the lesson and have some time to spare, take a stab at the lab, `My Little Rainbow`. If you need some help getting the lab into Nitrous, don't worry! Take a look at the `How To: Fork and Clone A Lab`.
