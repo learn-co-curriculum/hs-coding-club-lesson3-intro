@@ -11,6 +11,6 @@ Start today with the Lesson `What Not To Wear: CSS Edition`. If you finish the l
 
 ## Share Share Share!
 
-When you finish `What Not To Wear: CSS Edition`, don't forget to show off your work by taking a scren shot of beyonce's styled website or your code! Share it online with **\#flatironcodeclub** and **\#istyledbeonce**. 
+When you finish `What Not To Wear: CSS Edition`, don't forget to show off your work by taking a screen shot of beyonce's styled website or your code! Share it online with **\#flatironcodeclub** and **\#istyledbeonce**. 
 
 Finish `My Little Rainbow`? Screen shot your rainbow or the code and share with **\#mylittlerainbow**
