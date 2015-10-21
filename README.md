@@ -1,6 +1,6 @@
 # Let's Get Coding!
 
-<img src="http://25.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_mwjlmfJ1vx1rkiuhro1_500.gif">
+<img src="https://s3.amazonaws.com/after-school-assets/typing-fast.gif">
 
 So far, you've gotten really good at HTML, but now it's time to add some pizzaz to your sites. Today, you're getting started with CSS!
 
