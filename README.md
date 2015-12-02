@@ -14,3 +14,5 @@ Start today with the Lesson `What Not To Wear: CSS Edition`. If you finish the l
 When you finish `What Not To Wear: CSS Edition`, don't forget to show off your work by taking a screenshot of Beyoncé's styled website or your code! Share it online with **\#flatironcodeclub** and **\#istyledbeyonce**. 
 
 When you finish `My Little Rainbow`, screenshot your rainbow or the code and share with **\#mylittlerainbow**
+
+<a href='https://learn.co/lessons/hs-coding-club-lesson3-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
