@@ -15,4 +15,4 @@ When you finish `What Not To Wear: CSS Edition`, don't forget to show off your w
 
 When you finish `My Little Rainbow`, screenshot your rainbow or the code and share with **\#mylittlerainbow**
 
-<a href='https://learn.co/lessons/hs-coding-club-lesson3-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-lesson3-intro' title='Let's Get Coding!'>Let's Get Coding!</a> on Learn.co and start learning to code for free.</p>
